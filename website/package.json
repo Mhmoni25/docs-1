@@ -25,12 +25,12 @@
     "wait-on": "^5.2.0"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.7.0",
-    "@docusaurus/core": "^2.0.0-beta.13",
-    "@docusaurus/plugin-sitemap": "^2.0.0-beta.15",
-    "@docusaurus/preset-classic": "^2.0.0-beta.13",
+    "@crowdin/cli": "^3.19.4",
+    "@docusaurus/core": "^2.4.3",
+    "@docusaurus/plugin-sitemap": "^2.4.3",
+    "@docusaurus/preset-classic": "^2.4.3",
     "@saucelabs/theme-github-codeblock": "^0.2.3",
-    "clsx": "^1.1.1",
+    "clsx": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
